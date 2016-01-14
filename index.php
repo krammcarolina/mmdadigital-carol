@@ -1,5 +1,5 @@
 <?php
-
+  echo "teste alterei";
 	$url = explode('/',$_SERVER['REQUEST_URI']);
 	array_shift($url);
 	/*configuração Lucas*/
