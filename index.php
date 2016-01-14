@@ -2,6 +2,7 @@
   echo "teste alterei";
   echo "teste alterei 2";
   echo "teste alterei 3";
+  echo "teste alterei 4";
 	$url = explode('/',$_SERVER['REQUEST_URI']);
 	array_shift($url);
 	/*configuração Lucas*/
